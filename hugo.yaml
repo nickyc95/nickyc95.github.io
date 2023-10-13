@@ -1,7 +1,7 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-uk"
 title: "Nick Chilvers"
-theme: hugo-profile
+theme: hugo-profile-nc
 
 outputs:
   home:
@@ -53,8 +53,8 @@ markup:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Nick Chilvers"
+  description:
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
